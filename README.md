@@ -37,10 +37,7 @@
 
  ## OUTPUT
  
-
-
-![image](https://user-images.githubusercontent.com/113497491/209471330-a069d365-4b1b-4986-bb9c-b5559726114c.png)
-
+![output](./ex%201.2.png)
  
 
  ## RESULT

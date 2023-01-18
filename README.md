@@ -37,7 +37,8 @@
 
  ## OUTPUT
  
-![output](./ex%201.2.png)
+![ex 1 2](https://user-images.githubusercontent.com/113497491/213101644-8dabc548-36a4-45a7-bea6-5995da28d028.png)
+
  
 
  ## RESULT
